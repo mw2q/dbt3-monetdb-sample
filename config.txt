@@ -1,0 +1,16 @@
+node: CentOS-71-64-minimal
+kernel: Linux 3.10.0-229.4.2.el7.x86_64
+distribution: CentOS Linux release 7.1.1503 (Core) 
+dbver: MonetDB Database Server v1.7 (Jul2015-SP1)
+sysstat: 10.1.5
+CPUS: 16
+MHz:  1200.281
+model:  Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz
+memory:        65696932 kB
+scale_factor: 1
+num_stream: 1
+load_parameters: 
+power_parameters: 
+throughput_parameters: 
+shmmax: 8814346240
+dbms: monetdb

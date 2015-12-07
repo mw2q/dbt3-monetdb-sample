@@ -1,0 +1,91 @@
+Mon Dec  7 18:08:31 CET 2015: start throughput queriy stream 1 
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.075 MB dbt3-monetdb-sample/throughput/results/1/perf/21/q21-perf.data (~3267 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/3/q3-perf.data (~3251 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.076 MB dbt3-monetdb-sample/throughput/results/1/perf/18/q18-perf.data (~3299 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/5/q5-perf.data (~3253 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.075 MB dbt3-monetdb-sample/throughput/results/1/perf/11/q11-perf.data (~3286 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/7/q7-perf.data (~3245 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/6/q6-perf.data (~3235 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.076 MB dbt3-monetdb-sample/throughput/results/1/perf/20/q20-perf.data (~3342 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/17/q17-perf.data (~3218 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/12/q12-perf.data (~3211 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/16/q16-perf.data (~3214 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.073 MB dbt3-monetdb-sample/throughput/results/1/perf/15/q15-perf.data (~3199 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.075 MB dbt3-monetdb-sample/throughput/results/1/perf/13/q13-perf.data (~3280 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.076 MB dbt3-monetdb-sample/throughput/results/1/perf/10/q10-perf.data (~3331 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.077 MB dbt3-monetdb-sample/throughput/results/1/perf/2/q2-perf.data (~3369 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.076 MB dbt3-monetdb-sample/throughput/results/1/perf/8/q8-perf.data (~3340 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/14/q14-perf.data (~3211 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.076 MB dbt3-monetdb-sample/throughput/results/1/perf/19/q19-perf.data (~3327 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.076 MB dbt3-monetdb-sample/throughput/results/1/perf/9/q9-perf.data (~3307 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/22/q22-perf.data (~3218 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.075 MB dbt3-monetdb-sample/throughput/results/1/perf/1/q1-perf.data (~3263 samples) ]
+1 affected row
+1 affected row
+[ perf record: Woken up 1 times to write data ]
+[ perf record: Captured and wrote 0.074 MB dbt3-monetdb-sample/throughput/results/1/perf/4/q4-perf.data (~3249 samples) ]
+1 affected row
+1 affected row

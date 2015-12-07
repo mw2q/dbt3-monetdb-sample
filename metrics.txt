@@ -1,0 +1,4 @@
+
+power = 3600
+throughput = 13200.00
+composite = 6893.47
